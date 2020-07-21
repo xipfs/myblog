@@ -1,0 +1,14 @@
+[{
+    "avatar": "https://xipfs.github.io/images/2020/avator.jpg",
+    "name": "Hacker News",
+    "introduction": "The Hacker News is the most trusted, widely-read, independent source of latest news and technical...",
+    "url": "https://news.ycombinator.com/",
+    "title": "前去学习"
+},
+{
+    "avatar": "https://xipfs.github.io/images/2020/rust.jpg",
+    "name": "通过例子学 Rust",
+    "introduction": "Rust By Example 内容由一系列可运行的实例组成，通过这些例子阐明了各种 Rust 的概念和基本库。",
+    "url": "https://rustwiki.org/zh-CN/rust-by-example/",
+    "title": "前去学习"
+}]
